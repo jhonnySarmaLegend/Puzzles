@@ -1,0 +1,14 @@
+https://www.geeksforgeeks.org/puzzle-5-finding-the-injection-for-anesthesia/
+
+Alernate approach
+
+240 injections
+5 rats
+poision affects in 24hr
+total time for experiment 48hrs
+
+Solution:
+240/5=48 injection per rat
+48 injection in every half hour ~ 48x1/2=24 , hence in 24 hours all rats will be vaccinated and 48-24 =24 hr exact time required for poision to show its effect
+
+hence we can determine which injection is poisionous
